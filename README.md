@@ -1,6 +1,9 @@
 ## Api GIPHI
 https://developers.giphy.com/docs/api/
 
+<img src="./src/app-gif.png">
+
+
 
 # Instalación y configuracion de Jest + React Testing Library
 ## En proyectos de React + Vite
